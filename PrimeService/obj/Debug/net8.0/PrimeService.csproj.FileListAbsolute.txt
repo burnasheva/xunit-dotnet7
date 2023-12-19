@@ -1,0 +1,12 @@
+/Users/burnasheva/Downloads/xunit_dotnet6/PrimeService/bin/Debug/net8.0/PrimeService.deps.json
+/Users/burnasheva/Downloads/xunit_dotnet6/PrimeService/bin/Debug/net8.0/PrimeService.dll
+/Users/burnasheva/Downloads/xunit_dotnet6/PrimeService/bin/Debug/net8.0/PrimeService.pdb
+/Users/burnasheva/Downloads/xunit_dotnet6/PrimeService/obj/Debug/net8.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burnasheva/Downloads/xunit_dotnet6/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfoInputs.cache
+/Users/burnasheva/Downloads/xunit_dotnet6/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfo.cs
+/Users/burnasheva/Downloads/xunit_dotnet6/PrimeService/obj/Debug/net8.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/burnasheva/Downloads/xunit_dotnet6/PrimeService/obj/Debug/net8.0/PrimeService.sourcelink.json
+/Users/burnasheva/Downloads/xunit_dotnet6/PrimeService/obj/Debug/net8.0/PrimeService.dll
+/Users/burnasheva/Downloads/xunit_dotnet6/PrimeService/obj/Debug/net8.0/refint/PrimeService.dll
+/Users/burnasheva/Downloads/xunit_dotnet6/PrimeService/obj/Debug/net8.0/PrimeService.pdb
+/Users/burnasheva/Downloads/xunit_dotnet6/PrimeService/obj/Debug/net8.0/ref/PrimeService.dll
